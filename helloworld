@@ -1,7 +1,10 @@
-hi this is my introduction to git.
-here i am looking to push the code to repo's.
-pull the code from repo's to my local machhines.
-do code changes based on my requirements.
-once changes are done .push the code to the repository.
-test the code.
-deploy the code to production environment once everyting looks perfect.
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- This is a comment -->
+<p>This is a paragraph.</p>
+<!-- Comments are not displayed in the browser -->
+
+</body>
+</html>
